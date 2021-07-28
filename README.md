@@ -1,4 +1,4 @@
- * Analyst well versed in Python, MySQL and Microsoft Excel. 
+ * Languages and Softwares: Python, MySQL and Microsoft Excel. 
  (Currently learning Tableau)
  * My Skills: Exploratory Data Analysis, Data Cleaning, Data Visualisation, Web scraping
 
