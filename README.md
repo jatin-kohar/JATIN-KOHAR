@@ -1,3 +1,5 @@
+![Active-total cases](https://user-images.githubusercontent.com/84448617/127274124-8ec809da-dc8c-48d1-ac77-964d1bc03c22.png)
+![newplot](https://user-images.githubusercontent.com/84448617/127274145-5cb0a922-3117-47b0-9924-b3fe9bbead04.png)
 # Jatin-Portfolio
 
 # [Project-1: Exploratory Data Analysis on India's Statewise Covid-19 Data](https://github.com/jatin-kohar/EDA-India-Covid19-Data)
