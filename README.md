@@ -1,6 +1,6 @@
 # Jatin-Kohar
   Aspiring data analyst well versed in Python, SQL and Microsoft Excel. 
-  Currently learning Tableau.
+  (Currently learning Tableau)
 
 
 # [Project-1: Exploratory Data Analysis on India's Statewise Covid-19 Data in Python](https://github.com/jatin-kohar/EDA-India-Covid19-Data)
