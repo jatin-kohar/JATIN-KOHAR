@@ -1,6 +1,6 @@
- Analyst well versed in Python, MySQL and Microsoft Excel. 
+ * Analyst well versed in Python, MySQL and Microsoft Excel. 
  (Currently learning Tableau)
- My Skills: Exploratory Data Analysis, Data Cleaning, Data Visualisation, Web scraping
+ * My Skills: Exploratory Data Analysis, Data Cleaning, Data Visualisation, Web scraping
 
 # [Project-1: Exploratory Data Analysis on India's Statewise Covid-19 Data in Python](https://github.com/jatin-kohar/EDA-India-Covid19-Data)
 * In this project, I analysed the extent of Covid-19 spread and its impact on all Indian states and UTs using Python. Further, I attempted to draw conclusions as to the reason why some states were hit harder as compared to others. I individually inspected the death count, death ratio, discharge ratio, active cases and active ratio to reach my conclusions.
