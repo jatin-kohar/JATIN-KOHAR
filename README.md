@@ -1,4 +1,4 @@
- # My Project Portfolio
+ ## My Project Portfolio
  * **Languages and Softwares:** Python, MySQL and Microsoft Excel. 
  (Currently learning Tableau)
  * **My Skills:** Exploratory Data Analysis, Data Cleaning, Data Visualisation, Web scraping
