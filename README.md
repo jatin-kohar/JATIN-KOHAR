@@ -25,3 +25,18 @@
 
 ![price projections](https://user-images.githubusercontent.com/84448617/127276397-b64b1cae-b3c7-42f7-af27-d13907da3da7.png)
 ![Screen Shot 2021-07-28 at 12 12 48 PM](https://user-images.githubusercontent.com/84448617/127276422-386c6649-bb14-4ac9-966c-46e641325333.png)
+
+# [Project-3: Data Exploration on Global Covid-19 Deaths and Vaccination datasets in SQL](https://github.com/jatin-kohar/SQLProjects)
+* In this project, I performed exploratory data analysis on global Covid-19 datasets using SQL. I further prepared the data for visualisation by creating views from the cleaned and analysed data.
+* Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+# [Project-4: Data Cleaning on a Housing dataset using SQL](https://github.com/jatin-kohar/SQLProjects)
+* The purpose of this mini-project is to showcase my data cleaning skills on a large housing dataset using SQL. 
+* Skills used: Joins, Editing Tables, Removing duplicate values
+
+# [Project-5: Scraping Data from a website using Python]
+* This project involves scraping data from a website using the BeautifulSoup library of Python. The extracted data is formatted and printed in the notebook for further use. The program requires the user to input a skills that he is not familiar with so that the mentioned skills can be filtered away from our results. The posts are also filtered to show only the jobs that were listed a few days ago.
+
+* Additionally, each entry from the data has been stored in separate text files that refresh automatically every 10 minutes to ensure that any changes made on the website are captured in our scraped data.
+
+* Libraries Used: BeautifulSoup, requests, time
