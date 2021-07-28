@@ -1,4 +1,4 @@
- <span style="font-size=5000em;"> MY PROJECT PORTFOLIO</span>
+ # MY PROJECT PORTFOLIO
  
  * **Languages and Softwares:** Python, MySQL and Microsoft Excel. 
  (Currently learning Tableau)
