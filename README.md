@@ -3,8 +3,8 @@
 # [Project-1: Exploratory Data Analysis on India's Statewise Covid-19 Data in Python](https://github.com/jatin-kohar/EDA-India-Covid19-Data)
 * In this project, I analysed the extent of Covid-19 spread and its impact on all Indian states and UTs using Python. Further, I attempted to draw conclusions as to the reason why some states were hit harder as compared to others. I individually inspected the death count, death ratio, discharge ratio, active cases and active ratio to reach my conclusions.
 
-Libraries Used: NumPy, Pandas, Matplotlib, Plotly
-Skills used: Data Exploration, Interactive visualistions
+* Libraries Used: NumPy, Pandas, Matplotlib, Plotly
+* Skills used: Data Exploration, Interactive visualistions
 
 ### Summary of Findings:
 
@@ -17,11 +17,11 @@ Skills used: Data Exploration, Interactive visualistions
 ![Active-total cases](https://user-images.githubusercontent.com/84448617/127274124-8ec809da-dc8c-48d1-ac77-964d1bc03c22.png)
 ![newplot](https://user-images.githubusercontent.com/84448617/127274294-753867ac-c94d-47b3-a326-aa68c2afe4f7.png)
 
-#[Project-2: Forecasting Tata Motors stock price using Monte Carlo Simulation in Python]
+# [Project-2: Forecasting Tata Motors stock price using Monte Carlo Simulation in Python](https://github.com/jatin-kohar/Forecasting-Stock-Price)
 * In this project, I created a forecast for the stock price of Tata Motors stock for the upcoming 1000 days using a Monte Carlo Simulation on the price data from the period 1-1-2007 till present.
 
-Libraries Used: NumPy, Pandas, Pandas_datareader, scipy, Matplotlib
-Skills Used: Extracting data from web, Handling DataFrames, Data Visualisation, Monte Carlo Simulation
+* Libraries Used: NumPy, Pandas, Pandas_datareader, scipy, Matplotlib
+* Skills Used: Extracting data from web, Handling DataFrames, Data Visualisation, Monte Carlo Simulation
 
 ![price projections](https://user-images.githubusercontent.com/84448617/127276397-b64b1cae-b3c7-42f7-af27-d13907da3da7.png)
 ![Screen Shot 2021-07-28 at 12 12 48 PM](https://user-images.githubusercontent.com/84448617/127276422-386c6649-bb14-4ac9-966c-46e641325333.png)
