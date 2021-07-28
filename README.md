@@ -1,5 +1,4 @@
- 
- # My Project Portfolio
+ # JATIN-KOHAR
  
  * **Languages and Softwares:** Python, MySQL and Microsoft Excel. 
  (Currently learning Tableau)
