@@ -31,10 +31,10 @@
 * Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 # [Project-4: Data Cleaning on a Housing dataset using SQL](https://github.com/jatin-kohar/SQLProjects)
-* The purpose of this mini-project is to showcase my data cleaning skills on a large housing dataset using SQL. 
+* The purpose of this mini-project is to showcase my data cleaning skills on a large housing dataset using SQL. It involves clearing duplicate fields, dropping empty datapoints, separating data from a column to our desired format, deleting usued columns and standardising datetime format.
 * Skills used: Joins, Editing Tables, Removing duplicate values
 
-# [Project-5: Scraping Data from a website using Python]
+# [Project-5: Scraping Data from a website using Python](https://github.com/jatin-kohar/DataScraping)
 * This project involves scraping data from a website using the BeautifulSoup library of Python. The extracted data is formatted and printed in the notebook for further use. The program requires the user to input a skills that he is not familiar with so that the mentioned skills can be filtered away from our results. The posts are also filtered to show only the jobs that were listed a few days ago.
 
 * Additionally, each entry from the data has been stored in separate text files that refresh automatically every 10 minutes to ensure that any changes made on the website are captured in our scraped data.
