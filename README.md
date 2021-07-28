@@ -18,4 +18,4 @@ Skills used: Data Exploration, Interactive visualistions
 ![newplot](https://user-images.githubusercontent.com/84448617/127274294-753867ac-c94d-47b3-a326-aa68c2afe4f7.png)
 
 <img src="https://user-images.githubusercontent.com/84448617/127274124-8ec809da-dc8c-48d1-ac77-964d1bc03c22.png" width="10" height="10">
-
+<img src="https://user-images.githubusercontent.com/84448617/127274294-753867ac-c94d-47b3-a326-aa68c2afe4f7.png" width="10" height="10">
